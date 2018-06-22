@@ -5,6 +5,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jory.Framework.Web", "Jory.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jory.Framework.API", "Jory.Framework.API\Jory.Framework.API.csproj", "{41413261-CF45-4DBA-A727-197E49D26489}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jory.Framework.Service", "Jory.Framework.Service\Jory.Framework.Service.csproj", "{E43F02AC-DA02-45FD-99D6-D03B33B83D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jory.Framework.Repository", "Jory.Framework.Repository\Jory.Framework.Repository.csproj", "{4B92396F-84AC-40C5-BD08-944E27356A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jory.Framework.Model", "Jory.Framework.Model\Jory.Framework.Model.csproj", "{BCBF5677-BA03-46B2-BACE-6C5D4CA1A424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jory.Framework.Common", "Jory.Framework.Common\Jory.Framework.Common.csproj", "{77E10869-CA02-44D5-AA11-63C07A837590}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +27,22 @@ Global
 		{41413261-CF45-4DBA-A727-197E49D26489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41413261-CF45-4DBA-A727-197E49D26489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41413261-CF45-4DBA-A727-197E49D26489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43F02AC-DA02-45FD-99D6-D03B33B83D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43F02AC-DA02-45FD-99D6-D03B33B83D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43F02AC-DA02-45FD-99D6-D03B33B83D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43F02AC-DA02-45FD-99D6-D03B33B83D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B92396F-84AC-40C5-BD08-944E27356A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B92396F-84AC-40C5-BD08-944E27356A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B92396F-84AC-40C5-BD08-944E27356A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B92396F-84AC-40C5-BD08-944E27356A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBF5677-BA03-46B2-BACE-6C5D4CA1A424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBF5677-BA03-46B2-BACE-6C5D4CA1A424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBF5677-BA03-46B2-BACE-6C5D4CA1A424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBF5677-BA03-46B2-BACE-6C5D4CA1A424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E10869-CA02-44D5-AA11-63C07A837590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E10869-CA02-44D5-AA11-63C07A837590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E10869-CA02-44D5-AA11-63C07A837590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E10869-CA02-44D5-AA11-63C07A837590}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

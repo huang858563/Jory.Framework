@@ -11,3 +11,9 @@ E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Fr
 E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Framework.API\obj\Debug\Jory.Framework.API.csprojResolveAssemblyReference.cache
 E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Framework.API\obj\Debug\Jory.Framwork.API.dll
 E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Framework.API\obj\Debug\Jory.Framwork.API.pdb
+E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Framework.API\bin\Jory.Framework.Common.dll
+E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Framework.API\bin\Jory.Framework.Model.dll
+E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Framework.API\bin\Jory.Framework.Service.dll
+E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Framework.API\bin\Jory.Framework.Common.pdb
+E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Framework.API\bin\Jory.Framework.Model.pdb
+E:\Users\F1041534\My Document\Visual Studio 2012\Projects\Jory.Framework\Jory.Framework.API\bin\Jory.Framework.Service.pdb
